@@ -32,7 +32,7 @@ function removeItem(e){
             }
         })
     }
-    updateStorage();
+    // updateStorage();
 }
 
 function updateStorage(){
